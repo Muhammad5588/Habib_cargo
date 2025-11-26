@@ -28,7 +28,7 @@ FEEDBACK_GROUP_ID = int(os.getenv('FEEDBACK_GROUP_ID', '0'))          # Feedback
 # Template rasmlar
 PASSPORT_TEMPLATE = 'templates/pasport raqam.jpg'
 PINFL_TEMPLATE = 'templates/pinfluz.jpg'
-CHINA_ADDRESS_TEMPLATE = 'templates/china_address_template.jpg'
+CHINA_ADDRESS_TEMPLATE = 'templates/china_address_templatex.jpg'
 
 # Passport photos directory
 PASSPORT_PHOTOS_DIR = 'data/passport_photos'
