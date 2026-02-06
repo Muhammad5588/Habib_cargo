@@ -1,0 +1,32 @@
+# General Python
+__pycache__/
+__pycache__
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment Variables
+.env
+.env.*
+
+# Database
+data/feedback.txt
+data/passport_photos/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
